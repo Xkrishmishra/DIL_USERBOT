@@ -68,7 +68,7 @@ def inline_wrapper(func):
                     [
                         InlineKeyboardButton(
                             "【 ғᴜᴄᴋ ✘ ᴜsᴇʀʙᴏᴛ 】",
-                            url=f"https://github.com/mariyam840/Venom-Userbot"
+                            url=f"https://t.me/ily16k"
                         )
                     ]
                 ]
@@ -78,11 +78,11 @@ def inline_wrapper(func):
                     results=[
                         (
                             InlineQueryResultPhoto(
-                                photo_url=f"https://te.legra.ph/file/6926207a8c9c4b8e4b93c.jpg",
-                                title="➻ ᴅɪʟ ✘ ᴜsᴇʀʙᴏᴛ ✨",
-                                thumb_url=f"https://te.legra.ph/file/6926207a8c9c4b8e4b93c.jpg",
+                                photo_url=f"https://files.catbox.moe/2xw9zk.jpg",
+                                title="➻ KRISH ✘ ᴜsᴇʀʙᴏᴛ ✨",
+                                thumb_url=f"https://files.catbox.moe/2xw9zk.jpg",
                                 description=f"【 ᴅᴇᴘʟᴏʏ ʏᴏᴜʀ ᴏᴡɴ ᴅɪʟ ✘ ᴜsᴇʀʙᴏᴛ 🌿...】",
-                                caption=f"<b>➻ ᴡᴇʟᴄᴏᴍᴇ » ᴛᴏ » ᴅɪʟ \n✅ ᴜsᴇʀʙᴏᴛ {__version__} ✨...</b>",
+                                caption=f"<b>➻ ᴡᴇʟᴄᴏᴍᴇ » ᴛᴏ » krish \n✅ ᴜsᴇʀʙᴏᴛ {__version__} ✨...</b>",
                                 reply_markup=InlineKeyboardMarkup(button),
                             )
                         )
